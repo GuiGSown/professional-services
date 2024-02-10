@@ -590,12 +590,6 @@ Platform usage.
     The framework can be extended for other use cases as required. 
     The framework uses RIOT to bridge current product gaps with Memorystore Clusters
 
-## Contributing
-
-See the contributing [instructions](/CONTRIBUTING.md) to get started
-contributing.
-
-## Contact
 
 Questions, issues, and comments should be directed to
 [professional-services-oss@google.com](mailto:professional-services-oss@google.com).
